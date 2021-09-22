@@ -1,6 +1,6 @@
 # MyReads Project
 
-This is the MyReads Project which is a part of Udacity nanodegree in React and Reduc ( Front - end developer ). I joind this degree as one student of FWD scholership.
+This is the MyReads Project which is a part of Udacity nanodegree in React and Redux ( Front - end developer ). I joind this degree as one student of FWD scholership.
 In this project you will find shelfs and books that can be moved around the shelfs.
 use down-right green + sign to add more books.
 the Book API is mintained and controled by udacity.
